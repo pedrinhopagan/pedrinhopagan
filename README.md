@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pedrinhopagan
 - I'm a programming studend, focused on web development and passioned for games.
-- 🌱 I’m currently learning JavaScrip (+HTML5, +CSS3), ReactJS ad NodeJS
-- and during the weekend I dedicate myself to learn C# and Unity features
+- 🌱 I’m currently working with JavaScrip (+HTML5, +CSS3), and studying ReactJS ad NodeJS.
 - My friends and I are developing a game from scratch. Wich will be soon available on steam.
 - 💞️ I’m looking foward to get a nice expirience from working as a team during our game development,
 - and hopefully I'll get a job where I can put my skills to use. :)
