@@ -5,6 +5,7 @@
 - 💞️ I’m looking foward to get a nice expirience from working as a team during our game development,
 - and hopefully I'll get a job where I can put my skills to use. :)
 - 📫 You can contact me via 
+- linkedin: https://www.linkedin.com/in/pedro-ant%C3%B4nio-pagan-bonaldo-a98a3b255/
 - email: pedroantoniobonaldo@gmail.com
 - or whatsapp: +55 19 9 97855 5562
 
