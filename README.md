@@ -10,9 +10,6 @@
 - email: pedroantoniobonaldo@gmail.com
 - or WhatsApp: +55 19 9 97855 5562
 
-
-Corrected with https://www.corrector.co/
-
 <!---
 pedrinhopagan/pedrinhopagan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
