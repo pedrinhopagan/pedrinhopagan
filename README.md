@@ -1,10 +1,10 @@
 - Hi, I’m @pedrinhopagan
 - I'm a web developer passioned for technology.
-- 🌱 I’m currently working with React, Redux, Node.js, TypeScript, Sass and Figma for UX/UI design
+- 🌱 I’m currently working with React using Next.js as framework, Node.js as environment, Tailwind for styling and Figma for UX/UI design
 - Meanwhile I'm studying MongoDB to achieve the necessary knowledge to build an application with the MERN Stack;
-- 💼 I'm a freelancer and that's where I'm putting my skills to use.
-- 💞️ I’m looking forward to get a nice experience from working as a Freelancer,
-- and hopefully I'll get a job where I'll be able to elevate my skills. :)
+- 💼 I'm currently a freelancer selling Landing Pages and Web Applications.
+- 💞️ I’m having a nice experience working as a Freelancer,
+- and I'm also looking for a job where I'll be able to elevate my skills. :)
 - 📫 You can contact me via
 - LinkedIn: https://www.linkedin.com/in/pedro-ant%C3%B4nio-pagan-bonaldo-a98a3b255/
 - email: pedroantoniobonaldo@gmail.com
