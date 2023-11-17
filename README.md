@@ -1,7 +1,6 @@
 - Hi, I’m @pedrinhopagan
 - I'm a web developer passioned for technology.
 - 🌱 I’m currently working with React using Next.js as framework, Node.js as environment, Tailwind for styling and Figma for UX/UI design
-- Meanwhile I'm studying MongoDB to achieve the necessary knowledge to build an application with the MERN Stack;
 - 💼 I'm currently a freelancer selling Landing Pages and Web Applications.
 - 💞️ I’m having a nice experience working as a freelancer,
 - and I'm also looking for a job where I'll be able to elevate my skills. :)
