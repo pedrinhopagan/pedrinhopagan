@@ -1,8 +1,8 @@
 - Hi, I’m Pedro
 - 💻 I'm a React Web Developer.
-- 🌱 I’m currently working with the framework NextJS
-- enhancing my front-end skills while I explore the possibilities of building full-stack applications using NextJS
-- I build most of the designs and the assets of my applications using Figma for UX/UI and SVG creation
+- 🌱 currently working with the framework NextJS
+- enhancing my front-end skills while I explore the possibilities of building full-stack applications.
+- I build most of the designs and assets of my applications using Figma for UX/UI and SVG creation
 - and I'm used to optimize images that are going to be on my applications
 - 
 - 💼 I'm working as a freelancer selling Landing Pages and Web Applications.
