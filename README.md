@@ -1,15 +1,18 @@
-- Hi, I’m @pedrinhopagan
-- I'm a web developer passioned for technology.
-- 🌱 I’m currently working with React using Next.js as framework, Node.js as environment, Tailwind for styling and Figma for UX/UI design
-- 💼 I'm currently a freelancer selling Landing Pages and Web Applications.
-- 💞️ I’m having a nice experience working as a freelancer,
-- and I'm also looking for a job where I'll be able to elevate my skills. :)
-- 📫 You can contact me via
+- Hi, I’m Pedro
+- 💻 I'm a React Web Developer.
+- 🌱 I’m currently working with the framework NextJS
+- enhancing my front-end skills while I explore the possibilities of building full-stack applications using NextJS
+- I build most of the designs and the assets of my applications using Figma for UX/UI and SVG creation
+- and I'm used to optimize images that are going to be on my applications
+- 
+- 💼 I'm working as a freelancer selling Landing Pages and Web Applications.
+- However
+- **I'm open to work!**
+
+- **Check out my portfolio:**
+- https://www.devpedropagan.com.br/
+
+- 📫 Contact me via
 - LinkedIn: https://www.linkedin.com/in/pedro-ant%C3%B4nio-pagan-bonaldo-a98a3b255/
 - email: pedroantoniobonaldo@gmail.com
-- or WhatsApp: +55 19 9 97855 5562
-
-<!---
-pedrinhopagan/pedrinhopagan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- WhatsApp: +55 19 9 97855 5562
