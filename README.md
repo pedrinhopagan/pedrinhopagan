@@ -9,9 +9,8 @@ I am currently working with the Next.js framework to enhance my front-end skills
 * 🌍  I'm based in Amparo, SP - Brasil 💼
 * 🖥️  See my portfolio at [Dev Pedro Pagan](http://www.devpedropagan.com.br/)
 * ✉️  You can contact me at [pedroantoniobonaldo@gmail.com](mailto:pedroantoniobonaldo@gmail.com)
-* 🚀  I'm currently working on [a full stack e-commerce & CMS dashboard](http://github.com/pedrinhopagan/ecommerce-admin)
-* 🧠  I'm learning NodeJS, MySQL and Prisma
-* ⚡  I'm open to work! Feel free to contact me :)
+* 🚀  I'm currently working at [Dogama](https://app.dogama.com.br/) as FullStack Developer
+* 🧠  I'm learning TRPC, SQL, Prisma and Docker
 
 ### Skills
 
