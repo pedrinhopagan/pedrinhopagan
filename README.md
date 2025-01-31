@@ -11,7 +11,9 @@ I work with Bun, tRPC, Kysely, Prisma, and SQL on the backend, ensuring performa
 Beyond coding, I have experience designing interfaces and assets using Figma, optimizing UX/UI, and ensuring seamless usability.
 
 📍 Based in Amparo, SP - Brasil
+
 🖥️ Check out my portfolio: Dev Pedro Pagan
+
 ✉️ Contact me: pedroantoniobonaldo@gmail.com
 
 ### Skills
