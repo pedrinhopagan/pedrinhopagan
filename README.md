@@ -4,13 +4,15 @@ Hi 👋 My name is Pedro Pagan
 React Web Developer
 -------------------
 
-I am currently working with the Next.js framework to enhance my front-end skills while exploring the possibilities of building full-stack applications. I design most of the interfaces and assets for my applications using Figma for UX/UI and SVG creation. Additionally, I am accustomed to editing and optimizing images to ensure they are displayed effectively in my applications. 💼 As a freelancer, specializing in selling Landing Pages and Web Applications. My goal is to help small businesses establish their presence in the digital world.
+I am currently working as a Full-Stack Developer at Dogama, where I build and maintain features across the entire stack. My focus is on creating scalable and efficient solutions using modern technologies.
 
-* 🌍  I'm based in Amparo, SP - Brasil 💼
-* 🖥️  See my portfolio at [Dev Pedro Pagan](http://www.devpedropagan.com.br/)
-* ✉️  You can contact me at [pedroantoniobonaldo@gmail.com](mailto:pedroantoniobonaldo@gmail.com)
-* 🚀  I'm currently working at [Dogama](https://app.dogama.com.br/) as FullStack Developer
-* 🧠  I'm learning TRPC, SQL, Prisma and Docker
+I work with Bun, tRPC, Kysely, Prisma, and SQL on the backend, ensuring performance and reliability. On the frontend, I use React, TailwindCSS, React Hook Form, TanStack, and Framer Motion to craft intuitive and dynamic user experiences.
+
+Beyond coding, I have experience designing interfaces and assets using Figma, optimizing UX/UI, and ensuring seamless usability.
+
+📍 Based in Amparo, SP - Brasil
+🖥️ Check out my portfolio: Dev Pedro Pagan
+✉️ Contact me: pedroantoniobonaldo@gmail.com
 
 ### Skills
 
