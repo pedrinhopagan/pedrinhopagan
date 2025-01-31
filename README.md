@@ -12,7 +12,7 @@ Beyond coding, I have experience designing interfaces and assets using Figma, op
 
 📍 Based in Amparo, SP - Brasil
 
-🖥️ Check out my portfolio: Dev Pedro Pagan
+🖥️ Check out my portfolio: [Dev Pedro Pagan](https://www.devpedropagan.com.br/)
 
 ✉️ Contact me: pedroantoniobonaldo@gmail.com
 
