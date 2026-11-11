@@ -15,16 +15,20 @@ At [Dogama](https://www.devpedropagan.com.br/dogama), I develop features, define
 
 ## Built around real work
 
-| Project | What I built |
-| :--- | :--- |
-| [**Koworker**](https://github.com/pedrinhopagan/koworker) | A desktop app that keeps goals, decisions and coding agent context inside each project, so I can pick up where I left off. |
-| [**KW Lawyer**](https://www.devpedropagan.com.br/kw-lawyer) | A legal dashboard I built for my wife to follow cases, publications, deadlines and appointments in one place. |
-| [**Motion Studio**](https://www.devpedropagan.com.br/motion-studio) | A studio I use to produce Dogama’s videos, with scenes, audio, timestamped review notes and render history. |
+### [Firmino](https://github.com/pedrinhopagan/firmino)
 
-## How I build
+A personal secretary that stays on my desktop. One conversation brings together appointments, recurring routines, WhatsApp, email and the browser.
 
-My core stack is **TypeScript, React, Bun, Node.js and PostgreSQL**. I work across interfaces, APIs, data and integrations, and stay involved after a feature reaches production.
+### [Motion Studio](https://github.com/pedrinhopagan/motion-studio)
 
-I also build tools for working with coding agents. [Koworker](https://www.devpedropagan.com.br/koworker) holds the context; [kw-terminal](https://github.com/pedrinhopagan/kw-terminal), my Rust fork of [Herdr](https://github.com/ogulcancelik/herdr), runs the sessions; [kw-diff](https://www.devpedropagan.com.br/kw-diff) lets me review what each session changed.
+A local studio I built to produce Dogama’s videos. I organize scenes and audio, leave review notes at precise timestamps, and keep render versions together.
+
+[See the studio in action ↗](https://www.devpedropagan.com.br/motion-studio)
+
+### [Koworker](https://github.com/pedrinhopagan/koworker)
+
+A desktop workspace I built to keep projects, tasks and coding agent conversations together. Goals and decisions stay in Markdown files inside each project.
+
+I now use **[T3 Code](https://t3.codes/)** for my day-to-day development. Building these tools taught me how to give agents useful context and keep their work reviewable.
 
 > Good software should still make sense after deployment.
