@@ -1,41 +1,32 @@
-# Pedro Pagan
+<a href="https://www.devpedropagan.com.br/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+    <img src="./assets/profile-light.svg" alt="Pedro Pagan. Software for real work." width="100%">
+  </picture>
+</a>
 
-## Construo software para as coisas de que preciso.
+**Full-stack developer & product lead · Amparo, Brazil**
 
-Sou líder de produto e desenvolvedor full stack na [Dogama](https://dogama.com.br), onde trabalho entre produto, engenharia e operação. Gosto de transformar problemas que encontro no trabalho em ferramentas que eu mesmo quero usar: locais, diretas e feitas para continuar claras depois do deploy.
+I build software around the way people work, from business systems to tools I use every day.
 
-Essa ideia é próxima da origem do Linux: começar por uma necessidade própria e deixar o software crescer a partir do uso real.
+At [Dogama](https://www.devpedropagan.com.br/dogama), I develop features, define product priorities and coordinate the team’s delivery. My work spans subscriptions, payments, logistics and the paths people take through the product. I build tools to understand that usage and use what I learn to guide the next change.
 
-## Meu fluxo de trabalho
+**[Explore my portfolio ↗](https://www.devpedropagan.com.br/)** · [LinkedIn](https://www.linkedin.com/in/devpedropagan/)
 
-Três projetos formam o sistema que uso para trabalhar com AI Coding Agents:
+## Built around real work
 
-### 01. [Koworker](https://github.com/pedrinhopagan/koworker)
+### Firmino
 
-Organizo projetos, tarefas, contexto e skills antes de qualquer agente começar a escrever código. É um ERP local para desenvolvimento assistido por IA, construído com TypeScript, React, Bun, SQLite, Tauri e Rust.
+A personal secretary that stays on my desktop. One conversation brings together appointments, recurring routines, WhatsApp, email and the browser.
 
-### 02. [kw-terminal](https://github.com/pedrinhopagan/kw-terminal)
+### [Motion Studio](https://www.devpedropagan.com.br/motion-studio)
 
-Executo e acompanho agentes em paralelo sem perder a relação entre sessões e workspaces. É minha adaptação do Herdr, um multiplexer de terminal em Rust, Ratatui e Tokio.
+A local studio I built to produce Dogama’s videos. I organize scenes and audio, leave review notes at precise timestamps, and keep render versions together.
 
-### 03. kw-diff
+### [Koworker](https://github.com/pedrinhopagan/koworker)
 
-Reviso as mudanças de cada sessão em uma interface focada, com diffs vivos do Git e contexto de Claude Code e Codex. O projeto está em desenvolvimento e será publicado quando estiver pronto para uso fora do meu ambiente.
+A desktop workspace I built to keep projects, tasks and coding agent conversations together. Goals and decisions stay in Markdown files inside each project.
 
-```text
-Koworker  →  kw-terminal  →  kw-diff
-planejar     executar         revisar
-```
+I now use **[T3 Code](https://t3.codes/)** for my day-to-day development. Building these tools taught me how to give agents useful context and keep their work reviewable.
 
-## O que faço
-
-- Engenharia de produto e desenvolvimento full stack
-- Sistemas web, integrações e automação de operações
-- Ferramentas locais para fluxos com AI Coding Agents
-- TypeScript, React, Bun, SQL, Tauri e Rust
-
-Na Dogama, acompanhei sistemas que processaram cerca de 100 mil vendas e mais de R$ 14 milhões em GMV. Meu trabalho vai da decisão de produto à implementação e ao comportamento do sistema em produção.
-
-## Contato
-
-[Portfólio](https://pedropagan.com) · [LinkedIn](https://www.linkedin.com/in/devpedropagan/) · [E-mail](mailto:pedroantoniobonaldo@gmail.com)
+> Good software should still make sense after deployment.
