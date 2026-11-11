@@ -1,41 +1,30 @@
-# Pedro Pagan
+<a href="https://www.devpedropagan.com.br/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+    <img src="./assets/profile-light.svg" alt="Pedro Pagan. Software for real work." width="100%">
+  </picture>
+</a>
 
-## Construo software para as coisas de que preciso.
+**Full-stack developer & product lead · Amparo, Brazil**
 
-Sou líder de produto e desenvolvedor full stack na [Dogama](https://dogama.com.br), onde trabalho entre produto, engenharia e operação. Gosto de transformar problemas que encontro no trabalho em ferramentas que eu mesmo quero usar: locais, diretas e feitas para continuar claras depois do deploy.
+I build software around the way people work, from business systems to tools I use every day.
 
-Essa ideia é próxima da origem do Linux: começar por uma necessidade própria e deixar o software crescer a partir do uso real.
+At [Dogama](https://www.devpedropagan.com.br/dogama), I develop features, define product priorities and coordinate the team’s delivery. My work spans subscriptions, payments, logistics and the paths people take through the product. I build tools to understand that usage and use what I learn to guide the next change.
 
-## Meu fluxo de trabalho
+**[Explore my portfolio ↗](https://www.devpedropagan.com.br/)** · [LinkedIn](https://www.linkedin.com/in/devpedropagan/)
 
-Três projetos formam o sistema que uso para trabalhar com AI Coding Agents:
+## Built around real work
 
-### 01. [Koworker](https://github.com/pedrinhopagan/koworker)
+| Project | What I built |
+| :--- | :--- |
+| [**Koworker**](https://github.com/pedrinhopagan/koworker) | A desktop app that keeps goals, decisions and coding agent context inside each project, so I can pick up where I left off. |
+| [**KW Lawyer**](https://www.devpedropagan.com.br/kw-lawyer) | A legal dashboard I built for my wife to follow cases, publications, deadlines and appointments in one place. |
+| [**Motion Studio**](https://www.devpedropagan.com.br/motion-studio) | A studio I use to produce Dogama’s videos, with scenes, audio, timestamped review notes and render history. |
 
-Organizo projetos, tarefas, contexto e skills antes de qualquer agente começar a escrever código. É um ERP local para desenvolvimento assistido por IA, construído com TypeScript, React, Bun, SQLite, Tauri e Rust.
+## How I build
 
-### 02. [kw-terminal](https://github.com/pedrinhopagan/kw-terminal)
+My core stack is **TypeScript, React, Bun, Node.js and PostgreSQL**. I work across interfaces, APIs, data and integrations, and stay involved after a feature reaches production.
 
-Executo e acompanho agentes em paralelo sem perder a relação entre sessões e workspaces. É minha adaptação do Herdr, um multiplexer de terminal em Rust, Ratatui e Tokio.
+I also build tools for working with coding agents. [Koworker](https://www.devpedropagan.com.br/koworker) holds the context; [kw-terminal](https://github.com/pedrinhopagan/kw-terminal), my Rust fork of [Herdr](https://github.com/ogulcancelik/herdr), runs the sessions; [kw-diff](https://www.devpedropagan.com.br/kw-diff) lets me review what each session changed.
 
-### 03. kw-diff
-
-Reviso as mudanças de cada sessão em uma interface focada, com diffs vivos do Git e contexto de Claude Code e Codex. O projeto está em desenvolvimento e será publicado quando estiver pronto para uso fora do meu ambiente.
-
-```text
-Koworker  →  kw-terminal  →  kw-diff
-planejar     executar         revisar
-```
-
-## O que faço
-
-- Engenharia de produto e desenvolvimento full stack
-- Sistemas web, integrações e automação de operações
-- Ferramentas locais para fluxos com AI Coding Agents
-- TypeScript, React, Bun, SQL, Tauri e Rust
-
-Na Dogama, acompanhei sistemas que processaram cerca de 100 mil vendas e mais de R$ 14 milhões em GMV. Meu trabalho vai da decisão de produto à implementação e ao comportamento do sistema em produção.
-
-## Contato
-
-[Portfólio](https://pedropagan.com) · [LinkedIn](https://www.linkedin.com/in/devpedropagan/) · [E-mail](mailto:pedroantoniobonaldo@gmail.com)
+> Good software should still make sense after deployment.
