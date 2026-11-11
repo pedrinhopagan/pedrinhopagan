@@ -15,13 +15,15 @@ At [Dogama](https://www.devpedropagan.com.br/dogama), I develop features, define
 
 ## Built around real work
 
-### Firmino
+### [Firmino](https://github.com/pedrinhopagan/firmino)
 
 A personal secretary that stays on my desktop. One conversation brings together appointments, recurring routines, WhatsApp, email and the browser.
 
-### [Motion Studio](https://www.devpedropagan.com.br/motion-studio)
+### [Motion Studio](https://github.com/pedrinhopagan/motion-studio)
 
 A local studio I built to produce Dogama’s videos. I organize scenes and audio, leave review notes at precise timestamps, and keep render versions together.
+
+[See the studio in action ↗](https://www.devpedropagan.com.br/motion-studio)
 
 ### [Koworker](https://github.com/pedrinhopagan/koworker)
 
